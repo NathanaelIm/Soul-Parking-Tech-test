@@ -63,11 +63,10 @@ To manage sensitive data and configurations, this project uses a `.env` file.
 2.  Add the following variables to your `.env` file:
 
     ```
-    BASE_URL="[https://www.saucedemo.com/](https://www.saucedemo.com/)"
+    BASE_URL="https://www.saucedemo.com"
     VALID_USERNAME="standard_user"
     VALID_PASSWORD="secret_sauce"
     LOCKED_USERNAME="locked_out_user"
-    # Tambahkan variabel lain yang mungkin Anda butuhkan untuk skenario tes
     ```
     **Note:** **Do NOT** commit your `.env` file to version control (it's already included in `.gitignore`).
 
