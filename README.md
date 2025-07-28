@@ -24,7 +24,6 @@ This test automation suite covers key functionalities of the SauceDemo website, 
 ## 🛠️ Technologies Used
 
 * **[Playwright](https://playwright.dev/)**: A powerful Node.js library to automate Chromium, Firefox and WebKit with a single API.
-* **[TypeScript](https://www.typescriptlang.org/)**: For type-safe and scalable test code. (As indicated by `@types/node` in `package.json`).
 * **[Dotenv](https://www.npmjs.com/package/dotenv)**: To load environment variables from a `.env` file, keeping sensitive data out of the codebase.
 * **[Node.js](https://nodejs.org/)**: The JavaScript runtime environment.
 
